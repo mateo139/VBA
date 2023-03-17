@@ -1,3 +1,6 @@
+'Function definition
+
+
 Public Function WSP_KSZTAŁTU(b As Single, a As Single, T As Single, n As Single, D As Single) As Variant
 
 Dim Pi As Single
@@ -65,3 +68,5 @@ End Select
 DOP_NAPR = wynik
 
 End Function
+
+
